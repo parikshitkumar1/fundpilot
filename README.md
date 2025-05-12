@@ -1,10 +1,4 @@
 # fundpilot
-## sources
-
-Great — I’ll gather a list of publicly available funding sources relevant to early-stage founders, including grants, accelerators, angel groups, and pre-seed/seed VC firms. I’ll format them in a way that can be easily imported into Google Sheets, with columns like name, type, funding amount, region, application deadline, and link.
-
-I’ll let you know when it’s ready for your review.
-
 
 # Funding Sources for Early-Stage Startups
 
