@@ -141,4 +141,4 @@ GreenTech Solutions' project aims to provide sustainable and affordable technolo
 
 To engage the community in the development and maintenance of our project, we plan to establish a Community Engagement Committee (CEC) composed of local residents, business owners, and government officials. The CEC will provide a platform for stakeholders to share their ideas, feedback, and concerns regarding the project. Additionally, we will organize regular community meetings and workshops to educate the public about the project's progress, milestones, and achievements.
 
-
+#### Documentation and Rationale: https://docs.google.com/document/d/15a6YvT4UvhR02EvyGy9EySx2RuATtXY1QHexP5FOXwk/edit?usp=sharing
