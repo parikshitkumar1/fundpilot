@@ -52,6 +52,18 @@ FundPilot automates web form filling by using AI to generate answers based on us
    git clone https://github.com/parikshitkumar1/fundpilot.git
    cd fundpilot
 
+2. install requirements:
+   ```bash
+   pip install -r requirements.txt
+
+3. run one-time setup:
+   ```bash
+   streamlit run onetime.py
+
+4. run co-pilot:
+   ```bash
+   python fundme.py
+
 
 # Funding Sources for Early-Stage Startups
 
