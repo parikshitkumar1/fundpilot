@@ -1,4 +1,57 @@
-# fundpilot
+# FundPilot - Web Form Filling Automation with AI Model Integration
+
+FundPilot automates the process of filling out web forms using AI models and web automation tools. The AI generates context-aware answers for the form fields, and Selenium is used to fill out the form programmatically. The process is designed to be run offline for privacy and efficiency.
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [AI Models](#ai-models)
+- [Offline Usage](#offline-usage)
+- [Prerequisites](#prerequisites)
+- [License](#license)
+- [GitHub Repository](#github-repository)
+
+---
+
+## Overview
+
+FundPilot automates web form filling by using AI to generate answers based on user-uploaded resumes and then automatically filling out the form using Selenium. This allows for easy and fast form completion without manual data entry. The tool is designed for offline usage to ensure privacy and data security.
+
+---
+
+## Technologies Used
+
+- **Selenium WebDriver**: Used to automate browser interactions, such as filling out form fields.
+- **ChromeDriver**: Required to control the Chrome browser with Selenium.
+- **Tkinter**: Used to create a simple GUI for users to input the URL of the form to be filled.
+- **AI Models**:
+  - **LLaMA 2 7B**: The main model used for generating contextually relevant answers.
+- **Streamlit**: Used for running the initial part of the process to generate CSV data.
+- **Python**: The programming language for AI model integration, form automation, and CSV handling.
+
+---
+
+## Installation
+
+### Prerequisites
+
+1. **Python 3.x**: Make sure you have Python 3.x installed.
+2. **Chrome**: Chrome browser should be installed.
+3. **ChromeDriver**: Download and install ChromeDriver compatible with your version of Chrome.
+4. **Ollama with LLaMA 2 7B**: Ensure that Ollama is installed and the LLaMA 2 7B model is available for use.
+
+### Steps
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/parikshitkumar1/fundpilot.git
+   cd fundpilot
+
 
 # Funding Sources for Early-Stage Startups
 
