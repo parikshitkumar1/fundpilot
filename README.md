@@ -65,7 +65,7 @@ FundPilot automates web form filling by using AI to generate answers based on us
    python fundme.py
 
 
-# Funding Sources used for creatine one-time setup.
+# Funding Sources used for creating one-time setup.
 
 ## Accelerators & Incubators
 
