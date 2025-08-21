@@ -1,6 +1,6 @@
-# FundPilot - Web Form Filling Automation with AI Model Integration
+# fundmachine - Web Form Filling Automation with AI Model Integration
 
-FundPilot automates the process of filling out web forms using AI models and web automation tools. The AI generates context-aware answers for the form fields, and Selenium is used to fill out the form programmatically. The process is designed to be run offline for privacy and efficiency.
+fundmachine automates the process of filling out web forms using AI models and web automation tools. The AI generates context-aware answers for the form fields, and Selenium is used to fill out the form programmatically. The process is designed to be run offline for privacy and efficiency.
 
 ---
 
@@ -20,7 +20,7 @@ FundPilot automates the process of filling out web forms using AI models and web
 
 ## Overview
 
-FundPilot automates web form filling by using AI to generate answers based on user-uploaded resumes and then automatically filling out the form using Selenium. This allows for easy and fast form completion without manual data entry. The tool is designed for offline usage to ensure privacy and data security.
+fundmachine automates web form filling by using AI to generate answers based on user-uploaded resumes and then automatically filling out the form using Selenium. This allows for easy and fast form completion without manual data entry. The tool is designed for offline usage to ensure privacy and data security.
 
 ---
 
@@ -49,8 +49,8 @@ FundPilot automates web form filling by using AI to generate answers based on us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/parikshitkumar1/fundpilot.git
-   cd fundpilot
+   git clone https://github.com/parikshitkumar1/fundmachine.git
+   cd fundmachine
 
 2. install requirements:
    ```bash
